@@ -1,2 +1,10 @@
-# panel_Sparcky_god
-A configuration website for sparcky_god's users
+
+# Bot Panel
+
+Panel web pour configurer un bot Discord (inspiré de DraftBot).
+
+## Structure
+- bot/ : bot Discord
+- api/ : API Express
+- panel/ : panel web
+
