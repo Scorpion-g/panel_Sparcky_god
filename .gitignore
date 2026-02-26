@@ -1,4 +1,3 @@
-
 node_modules/
 .env
 .env.*
@@ -6,3 +5,4 @@ dist/
 build/
 .next/
 coverage/
+report.md
